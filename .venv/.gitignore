@@ -12,3 +12,6 @@ data/processed
 
 #Archivos temporates
 __pycache__/
+
+#Archivos Word MS
+*.docx
