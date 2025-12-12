@@ -90,4 +90,4 @@ ________________________________________
 - [Guía básica de Markdown](https://www.markdownguide.org/basic-syntax/)
 
 ### **Generado por:  Marvin Núñez**
-# ** Prueba de una nueva Rama**
+# **Prueba de una nueva Rama**
